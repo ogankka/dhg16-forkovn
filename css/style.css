@@ -6,6 +6,13 @@ body {
 .alexander { color: red; }
 
 .exempel-stud { color: red; }
+
+.kai{
+  width:100%;
+  color:#F6G5J1;
+  position:absolute;
+}
+
 	.tim{
 
       
@@ -87,3 +94,4 @@ positon:absolute;
         color: pink;
       }
     }
+
