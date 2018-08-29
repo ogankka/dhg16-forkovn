@@ -2,6 +2,9 @@ body {
   background-color: #efefef;
 }
 
+
+.alexander { color: red; }
+
 .exempel-stud { color: red; }
 	.tim{
 
@@ -21,122 +24,10 @@ body {
 .robin{
 width:100%;
 color:yellow;
-positon:ansolute;
+positon:absolute;
 	
 }
-
-    
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	@-webkit-keyframes colorchange {
+@-webkit-keyframes colorchange {
       0% {
         
         color: blue;
