@@ -27,6 +27,11 @@ color:yellow;
 positon:absolute;
 	
 }
+.niklas{
+	width:100%;
+	color:blue;
+	position:absolute;
+}
 @-webkit-keyframes colorchange {
       0% {
         
