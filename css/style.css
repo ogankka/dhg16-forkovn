@@ -7,9 +7,14 @@ body {
 
 .exempel-stud { color: red; }
 
+.andreas{
+	width:100%;
+	color:#3594BC;
+}
+
 .kai{
   width:100%;
-  color:#F6G5J1;
+  color:#FF00FD;
   position:absolute;
 }
 
